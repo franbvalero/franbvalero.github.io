@@ -12,9 +12,9 @@ picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
-resume-external: false
-resume-url: assets/files/cv.pdf
+#resume: true
+#resume-external: false
+#resume-url: assets/files/cv.pdf
 
 url: http://franborjavalero.github.io
 
@@ -68,6 +68,7 @@ projects: false
 
 # if you don't need "about" or "blog", comment them out below
 about: true
+projects: true
 blog: false
 
 # do you want to show the "read time" of the posts?
