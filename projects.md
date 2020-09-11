@@ -8,6 +8,7 @@ In my <a href="https://github.com/franborjavalero/">GitHub</a> there are some pr
 <h2>Natural language processing</h2>
 
 <ul class="nlp">
+	<li> <a href="https://github.com/franborjavalero/data-augmentation-for-text-classification/">Data augmentation for text classification</a> </li>
 	<li> <a href="https://github.com/franborjavalero/BERT-long-sentence-classification/">BERT for long sentence classification</a> </li>
 	<li> <a href="https://github.com/franborjavalero/clef-2020-author-profiling/">The third best solution to CLEF 2020 Author Profiling</a> </li>
 	<li> <a href="https://github.com/franborjavalero/computational-linguistics/">Computational linguistics assigments</a> </li>
