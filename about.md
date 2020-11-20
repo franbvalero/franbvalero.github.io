@@ -6,10 +6,10 @@ layout: page
 
 Hello,
 
-I am Francisco de Borja Valero (most people call me Fran), a ML engineer intern at Kustomer working on data augmentation, natural language understanding and natural language generation.
+I am Francisco de Borja Valero (most people call me Fran), a research intern working on Podcast Topic Modeling at Deezer.
 
-My interests are  Python, machine learning and the state of art in natural language processing.
+My interests are NLP, ML and Python.
 
-Formerly, I worked at Transducens research group of the University of Alicante doing projects related with machine translation and machine learning.
+Formerly, I worked on fine-tuning transformer models for Natural Language Understanding and Text Generation at Kustomer Inc. Before that, I worked at Transducens research group of the University of Alicante doing projects related to Machine Translation and Machine Learning.
 
-Feel free to be in touch! Thanks for stopping by. 
+Feel free to be in touch! Thanks for stopping by.
