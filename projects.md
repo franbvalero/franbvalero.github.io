@@ -3,7 +3,7 @@ title: Projects
 layout: page
 ---
 
-In my <a href="https://github.com/franborjavalero/">GitHub</a> there are some projects related to Machine Learning and Natural Language Processing. Below are some projects linked to the corresponding repositories.
+I have some open source projects related to Machine Learning and Natural Language Processing. Below some of them are linked to the corresponding repositories.
 
 <ul class="nlp">
 	<li> <a href="https://github.com/franborjavalero/data-augmentation-for-text-classification/">Data augmentation for text classification</a> </li>
