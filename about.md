@@ -8,4 +8,4 @@ Hi,
 
 I am Fran Valero, a Data Scientist working at Amazon Science. Former at Deezer Research.
 
-My interests are Machine Learning, Natural Language Processing and Python.
+My interests are Machine Learning and Natural Language Processing.
