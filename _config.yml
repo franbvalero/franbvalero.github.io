@@ -16,7 +16,7 @@ resume: true
 resume-external: false
 resume-url: assets/files/cv.pdf
 
-url: http://franborjavalero.github.io
+url: http://franbvalero.github.io
 
 permalink: /:title/
 
@@ -34,14 +34,14 @@ permalink: /:title/
 
 # if you don't have any of social below, comment the line
 #facebook: myfacebook
-twitter: franborjavalero
+twitter: franbvalero
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-linkedin: franborjavalero
+linkedin: franbvalero
 # youtube: myyoutube
 # spotify: myspotify
-github: franborjavalero
+github: franbvalero
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
@@ -51,7 +51,7 @@ github: franborjavalero
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 #googlescholar: 
-email: franborjavalero@gmail.com
+email: franbvalero@gmail.com
 
 
 # do you want a larger site? change the option below
