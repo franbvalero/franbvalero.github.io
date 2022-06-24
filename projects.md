@@ -1,13 +1,11 @@
 ---
-title: Projects
+title: Publications
 layout: page
 ---
-
-I have some open source projects related to Machine Learning and Natural Language Processing. Below some of them are linked to the corresponding repositories.
+**Conference papers**
 
 <ul class="nlp">
-	<li> <a href="https://github.com/franbvalero/data-augmentation-for-text-classification/">Data augmentation for text classification</a> </li>
-	<li> <a href="https://github.com/franbvalero/BERT-long-sentence-classification/">BERT for long sentence classification</a> </li>
-	<li> <a href="https://github.com/franbvalero/clef-2020-author-profiling/">The third best solution to CLEF 2020 Author Profiling</a> </li>
-	<li> <a href="https://github.com/franbvalero/npostagging/">Neural Part-of-Speech tagging</a> </li>
+	<li> Francisco B. Valero, Marion Baranes, Elena V. Epure. <b>Topic Modeling on Podcast Short-Text Metadata</b>. In 44th <i>European Conference on Information Retrieval</i> (ECIR 2022), Stavanger, Norway [<a href="https://arxiv.org/pdf/2201.04419.pdf">pdf</a>|<a href="https://github.com/deezer/podcast-topic-modeling">code</a>|<a href="https://franbvalero.github.io/assets/files/valero2022_ecir_slides.pdf">slides</a>]</li>
+	<li> Chandan K. Reddy, Lluis Marquez, Fran Valero, Nikhil Rao, Hugo Zaragoza, Sambaran Bandyopadhyay, Arnab Biswas, Anlu Xing, Karthik Subbian. <b>Shopping Queries Dataset: A Large-Scale ESCI Benchmark for Improving Product Search</b>. In 28th <i>ACM SIGKDD Conference on Knowledge Discovery and Data Mining</i> (KDD 2022), Washington DC, U.S. [<a href="https://arxiv.org/pdf/2206.06588.pdf">pdf</a>|<a href="https://github.com/amazon-research/esci-code">code</a>|<a href="https://www.aicrowd.com/challenges/esci-challenge-for-improving-product-search">KDD Cup competition: Amazon Product Search</a>]</li>
+	
 </ul>
