@@ -1,5 +1,5 @@
 # main text of home
-name: Fran B. Valero
+name: Fran Valero
 bio: ML/NLP
 
 # twitter summary info
@@ -70,6 +70,7 @@ projects: false
 about: true
 projects: true
 blog: false
+publications: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
