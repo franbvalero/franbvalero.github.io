@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: Fran Valero
-description: Applied Scientist for ML/NLP at Amazon
+<!-- description: Applied Scientist II for ML/NLP at Amazon -->
 
 profile:
   align: right
@@ -16,6 +16,6 @@ social: true
 ---
 
 
-I am an Applied Scientist specializing in Machine Learning and Natural Language Processing, currently based in Barcelona, Spain. I hold a Master's Degree in Artificial Intelligence from the <a href="https://www.upv.es/index-en.html">Polytechnic University of Valencia (UPV)</a>, and a Bachelor's Degree in Computer Science Engineering from the <a href="https://www.ua.es/en/">University of Alicante (UA)</a>. 
+I am an Applied Scientist II at Amazon. 
 
-My experience includes working at <a href="https://www.amazon.com/">Amazon</a> as an Applied Scientist where I focused on several community feedback (reviews and Q&A) projects to inform customer purchase decisions. Prior to that, I gained valuable experience as an R&D Intern at <a href="https://research.deezer.com/">Deezer</a>, where I worked on podcast topic modeling, and as an ML/NLP Engineer Intern at <a href="https://www.kustomer.com/">Kustomer</a>, where I enhanced intent capabilities in CRM chats. My foundation in this field is further supported by my research experience at the Transducens research group of the UA, where I worked on machine translation and text sequence labeling.
+My interests include IR, LLM, NLP, personalization and recommendation systems.
